@@ -1,4 +1,3 @@
-# audio_classification-pytorch
 
 ## Audio Classification with PyTorch
 This repository contains a PyTorch implementation of a multiclass image classification model trained on the PhysioNet/CinC 2016 dataset. The model uses a convolutional neural network (CNN) architecture to classify four different types of heart sounds: artifact, extrahls, murmur, and normal.
